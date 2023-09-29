@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+#hero {
+  height: 100vh;
+  background-image: url("../Assests/bg3.jpg");
+}
+.heading {
+  font-size: calc(1.8rem + 1.75vw);
+  font-family: "Lato", sans-serif;
+}
+#email-input {
+  outline: none;
+}

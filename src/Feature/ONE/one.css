@@ -1,0 +1,9 @@
+.one-text {
+  min-height: 500px;
+}
+#img {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: cover;
+}

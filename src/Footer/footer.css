@@ -1,0 +1,20 @@
+ul {
+  display: flex;
+}
+li {
+  margin: 25px;
+  list-style-type: none;
+  padding-left: 0;
+}
+.iconbtn {
+  background-color: inherit;
+  margin: 10px;
+}
+
+.iconLogo {
+  width: 80px;
+  color: blue;
+}
+.iconLogo:hover {
+  color: rgb(4, 4, 145);
+}
